@@ -20,4 +20,5 @@ split_amount = bill_final/int(people)
 
 print(f"Each person should pay : {split_amount}")
 
+input("Press ENTER to exit")
 
